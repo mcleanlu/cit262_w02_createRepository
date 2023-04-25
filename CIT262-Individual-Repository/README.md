@@ -15,5 +15,5 @@ Lastly, I have a strong desire to give back to my community. I love volunteering
 I am currently studying to be a doctor, and I'm also pursuing an undergraduate degree in IT with a focus on Cybersecurity. My goal is to use my knowledge and skills to help people and make a positive impact on the world. I believe that the combination of medicine and technology is a powerful one, and I'm excited to see where this path takes me.
 
 ## Conclusion
-
+ 
 That's a brief summary of who I am and what I'm all about. Thanks for taking the time to read my README.md file. If you have any questions or would like to get in touch, feel free to reach out to me at lucas.w.mclean@gmail.com
